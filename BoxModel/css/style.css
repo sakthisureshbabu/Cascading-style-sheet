@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    border: 10px double red;
+    border-top-style: ridge;
+    border-top-color: blue;
+    border-right: 10px dotted blue;
+    font-size: 1.5rem;
+    margin: 1.5em;
+    padding: 1.5em 2em 3em 4em;
+    outline: 5px solid purple;
+    outline-offset: -20px;
+    /* margin-top: 1.5em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+    margin-left: 2em; */
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    border: 2px solid black;
+    outline: 2px solid red;
+    outline-offset: 0.25rem;
+    margin: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}

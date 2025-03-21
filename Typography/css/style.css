@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    padding: 10%;
+    font-size: 2rem;
+    color: purple;
+}
+
+p {
+    text-transform: lowercase;
+    text-align: left;
+    text-indent: 2em;
+    line-height: 1.5;
+    letter-spacing: 0.085em;
+    word-spacing: 0.1em;
+    font-weight: 100;
+    font-style: oblique;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* input, button {
+    font: inherit;
+} *
